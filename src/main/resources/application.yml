@@ -1,0 +1,7 @@
+spring:
+  rsocket:
+    server:
+      port: 7000
+      transport: websocket
+  main:
+    lazy-initialization: true
